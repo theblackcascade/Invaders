@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+		<GraphicObject>
+			<id>0</id>
+			<type>enemy<type>
+			<name>alien0</name>
+			<image>
+				<url>alien00.png</url>
+				<width>32</width>
+				<height>32</height>
+			</image>
+			<image>
+				<url>alien01.png</url>
+				<width>32</width>
+				<height>32</height>
+			</image>
+		</GraphicObject>
+		
+		<GraphicObject>
+			<id>1</id>
+			<type>enemy</type>
+			<name>alien1</name>
+			<image>
+				<url>alien10.png</url>
+				<width>32</width>
+				<height>32</height>
+			</image>
+			<image>
+				<url>alien11.png</url>
+				<width>32</width>
+				<height>32</height>
+			</image>
+		</GraphicObject>	
+		
+		<GraphicObject>
+			<id>2</id>
+			<type>enemy</type>
+			<name>alien2</name>
+			<image>
+				<url>alien20.png</url>
+				<width>32</width>
+				<height>32</height>
+			</image>
+			<image>
+				<url>alien21.png</url>
+				<width>32</width>
+				<height>32</height>
+			</image>
+		</GraphicObject>
+		
+		<GraphicObject>
+			<id>3</id>
+			<type>hero</type>
+			<name>hero</name>
+			<image>
+				<url>hero.png</url>
+				<width>32</width>
+				<height>32</height>
+			</image>
+			<image>
+				<url>hero.png</url>
+				<width>32</width>
+				<height>32</height>
+			</image>
+		</GraphicObject>
+</set>

@@ -1,0 +1,65 @@
+<Level>
+<set type="alien1" y="32">	
+	<enemy><x>64</x></enemy>
+	<enemy><x>96</x></enemy>
+	<enemy><x>128</x></enemy>
+	<enemy><x>160</x></enemy>
+	<enemy><x>192</x></enemy>
+	<enemy><x>224</x></enemy>
+	<enemy><x>256</x></enemy>
+	<enemy><x>288</x></enemy>
+	<enemy><x>320</x></enemy>
+	<enemy><x>352</x></enemy>
+</set>		
+<set type="alien2" y="64">	
+	<enemy><x>64</x></enemy>
+	<enemy><x>96</x></enemy>
+	<enemy><x>128</x></enemy>
+	<enemy><x>160</x></enemy>
+	<enemy><x>192</x></enemy>
+	<enemy><x>224</x></enemy>
+	<enemy><x>256</x></enemy>
+	<enemy><x>288</x></enemy>
+	<enemy><x>320</x></enemy>
+	<enemy><x>352</x></enemy>
+</set>	
+<set type="alien2" y="128">	
+	<enemy><x>64</x></enemy>
+	<enemy><x>96</x></enemy>
+	<enemy><x>128</x></enemy>
+	<enemy><x>160</x></enemy>
+	<enemy><x>192</x></enemy>
+	<enemy><x>224</x></enemy>
+	<enemy><x>256</x></enemy>
+	<enemy><x>288</x></enemy>
+	<enemy><x>320</x></enemy>
+	<enemy><x>352</x></enemy>
+</set>
+<set type="alien0" y="160">	
+	<enemy><x>64</x></enemy>
+	<enemy><x>96</x></enemy>
+	<enemy><x>128</x></enemy>
+	<enemy><x>160</x></enemy>
+	<enemy><x>192</x></enemy>
+	<enemy><x>224</x></enemy>
+	<enemy><x>256</x></enemy>
+	<enemy><x>288</x></enemy>
+	<enemy><x>320</x></enemy>
+	<enemy><x>352</x></enemy>
+</set>	
+<set type="alien0" y="96">	
+	<enemy><x>64</x></enemy>
+	<enemy><x>96</x></enemy>
+	<enemy><x>128</x></enemy>
+	<enemy><x>160</x></enemy>
+	<enemy><x>192</x></enemy>
+	<enemy><x>224</x></enemy>
+	<enemy><x>256</x></enemy>
+	<enemy><x>288</x></enemy>
+	<enemy><x>320</x></enemy>
+	<enemy><x>352</x></enemy>
+</set>	
+<set type="hero" y="300">	
+	<hero><x>224</x></hero>
+</set>	
+</Level>

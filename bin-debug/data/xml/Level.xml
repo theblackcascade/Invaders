@@ -1,0 +1,43 @@
+<level>
+	<static name="background" x="0", y="0"/>
+
+<set type="3",y="16">	
+	<enemy x="64"/>
+	<enemy x="96"/>
+	<enemy x="128"/>
+	<enemy x="160"/>
+	<enemy x="192"/>
+	<enemy x="224"/>
+	<enemy x="256"/>
+	<enemy x="288"/>
+	<enemy x="320"/>
+	<enemy x="352"/>
+</set>		
+<set type="3",y="64">	
+	<enemy x="64"/>
+	<enemy x="96"/>
+	<enemy x="128"/>
+	<enemy x="160"/>
+	<enemy x="192"/>
+	<enemy x="224"/>
+	<enemy x="256"/>
+	<enemy x="288"/>
+	<enemy x="320"/>
+	<enemy x="352"/>
+</set>	
+<set type="3",y="96">	
+	<enemy x="64"/>
+	<enemy x="96"/>
+	<enemy x="128"/>
+	<enemy x="160"/>
+	<enemy x="192"/>
+	<enemy x="224"/>
+	<enemy x="256"/>
+	<enemy x="288"/>
+	<enemy x="320"/>
+	<enemy x="352"/>
+</set>	
+	
+	<hero x="224", y="556"/>
+	
+</level>

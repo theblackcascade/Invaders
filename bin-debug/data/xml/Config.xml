@@ -1,0 +1,6 @@
+<config>
+	<Title>Space 0x0FF Invaders</Title>
+	<Width>640</Width>
+	<Height>480</Height>
+	<FrameRate>100</FrameRate>
+</config>
